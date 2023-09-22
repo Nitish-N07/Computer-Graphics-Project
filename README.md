@@ -10,13 +10,13 @@ a sample of how the real campus looks however details such as paint color and bu
 ### Results
 
 ##### basketball court
-https://github.com/Nitish-N07/Computer-Graphics-Project/blob/master/cgm_bball.jpg
+![alt text](https://github.com/Nitish-N07/Computer-Graphics-Project/blob/master/cgm_bball.jpg)
 ##### hostel
-https://github.com/Nitish-N07/Computer-Graphics-Project/blob/master/cgm_bh1.jpg
+![alt text](https://github.com/Nitish-N07/Computer-Graphics-Project/blob/master/cgm_bh1.jpg)
 ##### trees
-https://github.com/Nitish-N07/Computer-Graphics-Project/blob/master/cgm_treess.jpg
+![alt text](https://github.com/Nitish-N07/Computer-Graphics-Project/blob/master/cgm_treess.jpg)
 ##### Demo
-https://github.com/Nitish-N07/Computer-Graphics-Project/blob/master/cgm_gif.gif
+![alt text](https://github.com/Nitish-N07/Computer-Graphics-Project/blob/master/cgm_gif.gif)
 
 ### Team members
 **N NITISH REDDY** - Input Keys, Academic Block, Roads and methodology
