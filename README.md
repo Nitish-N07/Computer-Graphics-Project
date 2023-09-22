@@ -19,7 +19,11 @@ a sample of how the real campus looks however details such as paint color and bu
 ![alt text](https://github.com/Nitish-N07/Computer-Graphics-Project/blob/master/cgm_gif.gif)
 
 ### Team members
+
 **N NITISH REDDY** - Input Keys, Academic Block, Roads and methodology
+
 NITHIN DEV - Hostel, Mess buildings, Abstract and Introduction
+
 JAYANTH B - Park, Arch and Layout diagram
+
 SATHWIC M - Basketball, badminton court and conclusion
